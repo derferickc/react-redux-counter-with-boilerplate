@@ -1,6 +1,6 @@
-# React Redux Form Handler
+# React Redux Simple Counter w/o Boilerplate
 
-> A simple web application that uses React and Redux to create a simple counter with increment and decrement features; setting up the boilerplate to create a store and a universal state that can be +/- is the goal. The Redux DevTools Extension was also configured within the store for other developers to fork or contribute!
+> A simple web application that uses React and Redux to create a simple counter with increment, decrement, and reset features; setting up the boilerplate to create a store and a universal state that can be +/- is the goal. The Redux DevTools Extension was also configured within the store for other developers to fork or contribute!
 
 > Technology used: React, Redux, HTML5, CSS3, ES6, Redux DevTools Extension
 
