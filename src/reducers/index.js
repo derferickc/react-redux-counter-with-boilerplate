@@ -12,6 +12,10 @@ export default function(state = initialState, action) {
       return {
         count: state.count - 1
       }
+    case "RESET":
+      return {
+        count: 0
+      }
     default:
       return state
   }
